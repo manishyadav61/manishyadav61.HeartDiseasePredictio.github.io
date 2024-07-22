@@ -1,1 +1,1 @@
-# manishyadav61.courseBuilder.github.io
+# manishyadav61.HeartDiseasePrediction.github.io
